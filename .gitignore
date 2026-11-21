@@ -22,3 +22,6 @@ _dev/
 .idea/
 .DS_Store
 Thumbs.db
+
+# 截图工作目录（临时）
+_shots/

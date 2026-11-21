@@ -6,6 +6,18 @@ Windows 后台常驻小工具：自动登录 QQ / 163 / 126 邮箱 → **全文�
 
 > 只连 IMAP、只读（`EXAMINE` + `BODY.PEEK`），不改已读、不删邮件；授权码用 Windows DPAPI 加密。
 
+## 截图
+
+| 验证码卡片（点一下即复制） | 多个验证码自动排队 |
+|---|---|
+| <img src="docs/screenshots/popup.png" width="380"> | <img src="docs/screenshots/popups.png" width="380"> |
+
+设置窗（账号 / 运行模式 / 开机自启 / 隐藏托盘）：
+
+<img src="docs/screenshots/settings.png" width="640">
+
+> 截图里的账号是 `example@qq.com`、`example@163.com`，里面的验证码是 `--demo` 生成的假数据。
+
 ## 环境要求
 
 | 项目 | 要求 |
