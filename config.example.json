@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "poll_seconds": 60,
+  "initial_baseline": true,
+  "max_body_bytes": 400000,
+  "max_mails_per_folder": 25,
+  "max_codes_per_mail": 3,
+  "folder_ttl_seconds": 300,
+  "popup_seconds": 40,
+  "clipboard_clear_seconds": 60,
+  "same_code_quiet_seconds": 300,
+  "seen_ttl_hours": 48,
+  "hide_tray": false,
+  "mode": "manual",
+  "manual_window_seconds": 300,
+  "manual_poll_seconds": 10,
+  "skip_folders": [
+    "已发送",
+    "已删除",
+    "草稿箱",
+    "Sent",
+    "Sent Messages",
+    "Drafts",
+    "Deleted Messages"
+  ],
+  "accounts": []
+}

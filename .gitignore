@@ -1,0 +1,24 @@
+# 本机数据（绝对不要提交）
+config.json
+state.json
+logs/
+*.log
+
+# Python 环境与构建产物
+venv/
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+
+# 开发/测试截图（含真实邮箱与验证码）
+screenshot*.png
+screenshot_*.png
+_dev/
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
